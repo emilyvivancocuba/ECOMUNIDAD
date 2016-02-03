@@ -1,0 +1,133 @@
+a{
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+}
+.logo-ecomunidad{
+	width: 40%;
+}
+p{
+	font-size: 14px;
+}
+header{
+	background-image: url(../img/semilla.jpg);
+	height: 440px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+nav ul{
+	list-style-type: none;
+}
+nav li{
+	display: inline-block;
+	padding: 20px;
+}
+nav li:hover a{
+	background-color: #707070;
+	color: white;
+	padding: 15px 20px;
+}
+.nav-header{
+	z-index: 1;
+	background-color: white;
+	margin: 0;
+	padding-top: 5px;
+}
+.pdt-10{
+	padding-top: 10px;
+}
+.pd-80-250{
+	padding: 80px 250px;
+}
+section:nth-child(3) p{
+	padding: 0% 8%;
+}
+.metodo{
+	background-image: url(../img/metodo.jpg);
+	background-position: top;
+}
+.h-380{
+	height: 380px;
+}
+.pizarra{
+	background-image: url(../img/fondo.jpg);
+	background-position: center;
+}
+.pizarra h1{
+	font-family: OpenSans-Regular;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 30px 0px;
+}
+.pizarra p{
+	font-size: 13px;
+	padding: 0px 10%;
+}
+section:nth-child(5) .servicios-parrafo{
+	padding: 2.5% 15%;
+	font-size: 14px;
+}
+section:nth-child(5) p{
+	padding: 5% 10%;
+	font-size: 12px;
+}
+section:nth-child(5) h4,
+section:nth-child(7) h3.txt-green{
+	color: #5E8039;
+}
+section:nth-child(6) img{
+	width: 100%;
+}
+section:nth-child(7) img.redondo{
+	border-radius: 100%;
+	width: 50%;
+}
+section:nth-child(7) ul{
+	list-style-type: none;
+}
+section:nth-child(7) li{
+	display: inline-block;
+	padding: 0% 1%;
+}
+section:nth-child(7) ul li img{
+	width: 25px;
+}
+section:nth-child(8){
+	background-image: url(../img/fondo2.jpg);
+	background-size: 60%;
+	background-repeat: repeat;
+}
+section:nth-child(8) img{
+	width: 100%;
+}
+section:nth-child(8) img.bot-verde{
+	width: 35px;
+	margin-top: 15%;
+}
+section:nth-child(8) img.back{
+	float: left;
+	margin-left: 3%;
+}
+section:nth-child(8) img.next{
+	float: right;
+	margin-right: 3%;
+}
+section:nth-child(8) h3 strong{
+	padding-left: 1%;
+}
+section nav .col-3{
+	border: 1px solid white;
+}
+section nav .img-redsocial{
+	padding-top: 60%;
+}
+section nav img{
+	width: 45%;
+}
+img.circular{
+	border-radius: 100%;
+}
+footer{
+	font-family: OpenSans-Bold;
+	font-size: 13px;
+}
